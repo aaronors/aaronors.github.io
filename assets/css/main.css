@@ -1655,10 +1655,10 @@
 /* Banner */
 
 	#banner {
-		background: #CCE8F4 url("../../images/b1.jpg");
+		background: #FFF url("../../images/b22.jpg");
 		background-position: center center;
 		background-size: auto 100%;
-        background-repeat: repeat 2;
+        background-repeat: no-repeat;
 		text-align: center;
 	}
 
